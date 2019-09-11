@@ -7,5 +7,5 @@ abstract = "abstract"
 publication = "Marine Policy"
 doi = ""
 url_pdf = ""
-featured = "true"
+featured = true
 +++
