@@ -1,4 +1,3 @@
-+++
 title = "Marine Spatial Planning in Areas Beyond National Jurisdiction"
 date = "2019-01-01"
 publication_types = ["1"]
@@ -7,5 +6,5 @@ abstract = "Pressure on marine areas beyond national jurisdiction (ABNJ) has inc
 publication = ""
 doi = ""
 url_pdf = ""
-featured = FALSE
+featured = "FALSE"
 +++
