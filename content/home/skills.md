@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = ""
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -17,7 +17,9 @@ subtitle = ""
 [[feature]]
   icon = "search"
   icon_pack = "fas"
-  name = "Research"
+  name = "Research
+  
+  "
   description = ""
   
 [[feature]]
@@ -35,7 +37,9 @@ subtitle = ""
 [[feature]]
   icon = "table"
   icon_pack = "fas"
-  name = "Spreadsheets"
+  name = "Spreadsheets
+  
+  "
   description = ""
 
 [[feature]]
