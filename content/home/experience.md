@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Senior Research Fellow"
   company = "Institute for Sustainable Development and International Relations (IDDRI)"
@@ -24,7 +25,7 @@ date_format = "Jan 2006"
   location = "Paris"
   date_start = "2014-04-01"
   date_end = ""
-  description = """
+  description = ""
 
 [[experience]]
   title = "Researcher"
