@@ -1,4 +1,4 @@
-+++
+---
 title: Little Blue Letter
 summary: An example of using the in-built project page.
 tags:
@@ -30,5 +30,4 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: example
-+++
-
+---
