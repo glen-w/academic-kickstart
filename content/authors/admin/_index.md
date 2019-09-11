@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Glen Wright
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior Research Fellow in Marine Governance
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Institute for Sustainable Development and International Relations (IDDRI)
+  url: "http://www.iddri.org"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- International environmental law and policy
+- Areas beyond national jurisdiction
+- Marine spatial planning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Marine Governance
+    institution: Australian National University
+    year: 2019 (submitted)
+  - course: LL.M Law
+    institution: University of New South Wales
+    year: 2013
+  - course: LL.B in Law with American Law
+    institution: University of Nottingham and University of Texas at Austin
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,13 +47,11 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/MarinePolicy
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.co.uk/citations?user=QHaIr0sAAAAJ
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a Senior Research Fellow at the Institute for Sustainable Development and International Relations (IDDRI), based in Paris. I work on various aspects of marine policy and ocean governance, specialising in the high seas/areas beyond national jurisdiction, regional ocean policy, marine spatial planning, and the regulation of wave and tidal energy technologies.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I run Little Blue Letter, an uplifting ocean newsletter curated each week by a young leader in marine science and policy, and Academia Obscura, a popular twitter account musing on the lighter side of academic life (now a book!).
