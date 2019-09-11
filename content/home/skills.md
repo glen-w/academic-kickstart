@@ -15,21 +15,40 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "search"
+  icon_pack = "fas"
+  name = "Research"
+  description = ""
   
 [[feature]]
-  icon = "chart-line"
+  icon = "pen"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Writing"
+  description = ""  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "twitter"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Social media"
+  description = ""
+  
+[[feature]]
+  icon = "table"
+  icon_pack = "fas"
+  name = "Spreadsheets"
+  description = ""
+
+[[feature]]
+  icon = "comments"
+  icon_pack = "far"
+  name = "Languages"
+  description = ""
+
+[[feature]]
+  icon = "code-branch"
+  icon_pack = "fas"
+  name = "Productive procrastination"
+  description = ""
+
 
 +++
