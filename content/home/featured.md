@@ -22,10 +22,10 @@ subtitle = ""
   order = "desc"
 
   # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
+ # [content.filters]
+  #  tag = ""
+  #  category = ""
+  #  publication_type = "1"
   
 [design]
   # Toggle between the various page layout types.
