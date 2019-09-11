@@ -6,5 +6,5 @@ abstract = "Pressure on marine areas beyond national jurisdiction (ABNJ) has inc
 publication = ""
 doi = ""
 url_pdf = ""
-featured = "FALSE"
+featured = "TRUE"
 +++
