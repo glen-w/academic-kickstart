@@ -28,7 +28,7 @@ subtitle = ""
   
 [[feature]]
   icon = "twitter"
-  icon_pack = "far"
+  icon_pack = "fab"
   name = "Social media"
   description = ""
   
