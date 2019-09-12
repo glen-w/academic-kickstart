@@ -17,9 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "search"
   icon_pack = "fas"
-  name = "Research
-  
-  "
+  name = "Research"
   description = ""
   
 [[feature]]
@@ -37,9 +35,7 @@ subtitle = ""
 [[feature]]
   icon = "table"
   icon_pack = "fas"
-  name = "Spreadsheets
-  
-  "
+  name = "Spreadsheets"
   description = ""
 
 [[feature]]
