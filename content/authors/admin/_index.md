@@ -71,6 +71,10 @@ social:
   icon_pack: ai
   link: https://www.mendeley.com/profiles/glen-wright/
  
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/glen-wright-49455428/
+
 - icon: cv
   icon_pack: ai
   link: files/Glen Wright, CV.pdf
