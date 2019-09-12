@@ -11,7 +11,7 @@ date: "2017-10-27T00:00:00Z"
 external_link: ""
 
 image: 
-  caption: Academia Obscura
+  caption: ""
   focal_point: Smart
 
 links:
