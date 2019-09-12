@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = ""
-subtitle = ""
+subtitle = "Experience"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
-  title = ""
+  title = "Energy Market Advocate"
   company = "Total Environment Centre (TEC)"
   company_url = ""
   location = "Sydney"
