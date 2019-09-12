@@ -51,10 +51,20 @@ subtitle = "Skills"
   description = ""
 
 [[feature]]
+  icon = ""
+  icon_pack = ""
+  name = ""
+  description = ""
+  
+[[feature]]
   icon = "code-branch"
   icon_pack = "fas"
   name = "Productive procrastination"
   description = ""
 
-
+[[feature]]
+  icon = ""
+  icon_pack = ""
+  name = ""
+  description = ""
 +++
