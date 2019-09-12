@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = ""
 subtitle = ""
 
 # Date format for experience
@@ -37,10 +37,28 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
-  title = "PhD student"
-  company = "Australian National University (ANU)"
+  title = ""
+  company = "Total Environment Centre (TEC)"
   company_url = ""
-  location = "Canberra"
+  location = "Sydney"
+  date_start = "2012-02-01"
+  date_end = "2013-08-01"
+  description = ""
+
+[[experience]]
+  title = "Paralegal"
+  company = "Freehills"
+  company_url = ""
+  location = "Sydney"
+  date_start = "2012-02-01"
+  date_end = "2013-08-01"
+  description = ""
+
+[[experience]]
+  title = "Research Assistant"
+  company = "University of New South Wales (UNSW)"
+  company_url = ""
+  location = "Sydney"
   date_start = "2012-02-01"
   date_end = "2013-08-01"
   description = ""
