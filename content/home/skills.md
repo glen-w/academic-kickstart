@@ -24,7 +24,7 @@ subtitle = "Skills"
   icon = "pen"
   icon_pack = "fas"
   name = "Writing"
-  description = ""  
+  description = "  "  
 
 [[feature]]
   icon = "edit"
@@ -42,7 +42,7 @@ subtitle = "Skills"
   icon = "table"
   icon_pack = "fas"
   name = "Spreadsheets"
-  description = ""
+  description = "  "
 
 [[feature]]
   icon = "comments"
