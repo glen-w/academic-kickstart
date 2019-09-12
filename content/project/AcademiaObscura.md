@@ -10,7 +10,7 @@ date: "2017-10-27T00:00:00Z"
 
 external_link: ""
 
-image:
+image: "http://www.academiaobscura.com/wp-content/uploads/2017/11/Academia-Obscura-300x278.png"
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
