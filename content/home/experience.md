@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") "  Senior Research Fellow"
+  title = "Senior Research Fellow"
   company = "Institute for Sustainable Development and International Relations (IDDRI)"
   company_url = "http://www.iddri.org/"
   location = "Paris"
