@@ -8,6 +8,11 @@ weight = 40  # Order that this section will appear.
 title = "Experience"
 subtitle = ""
 
+# Background image.
+  image = "highseas.jpg"  # Name of image in `static/img/`.
+  image_darken = 0.8  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
