@@ -8,11 +8,11 @@ date: "2017-10-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 
-external_link: ""
+external_link: "https://www.prog-ocean.org/our-work/strong-high-seas/"
 
-image: 
-  caption: abc
-  focal_point: Smart
+# image: 
+#  caption: 
+#  focal_point: Smart
 
 links:
 - icon: twitter
@@ -31,6 +31,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
-text here
 
