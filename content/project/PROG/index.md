@@ -12,7 +12,7 @@ date: "2017-10-27T00:00:00Z"
 external_link: "https://www.prog-ocean.org"
 
 image: 
-  caption: abc
+  caption: 
   focal_point: Smart
 
 links:
