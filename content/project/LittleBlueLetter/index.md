@@ -1,13 +1,7 @@
 ---
 title: Little Blue Letter
-summary: 
-"Little Blue Letter is a splash of uplifting ocean stuff, lovingly curated by young ocean leaders & shipped straight to your inbox every Friday.
+summary: Little Blue Letter is a splash of uplifting ocean stuff, lovingly curated by young ocean leaders & shipped straight to your inbox every Friday
 
-- *"Such a refreshing look at things."*
-
-- *"Great info, wonderfully written, and with a nice shot of humor and optimism."*
-
-- *"relevant, inspiring, uplifting, and a great weekly sum up."* "
 
 tags:
 - Outreach
@@ -39,3 +33,11 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+Little Blue Letter is a splash of uplifting ocean stuff, lovingly curated by young ocean leaders & shipped straight to your inbox every Friday.
+
+- *"Such a refreshing look at things."*
+
+- *"Great info, wonderfully written, and with a nice shot of humor and optimism."*
+
+- *"relevant, inspiring, uplifting, and a great weekly sum up."* 
+
