@@ -8,7 +8,7 @@ date: "2017-10-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 
-external_link: ""
+external_link: "https://www.prog-ocean.org"
 
 image: 
   caption: abc
@@ -32,4 +32,3 @@ url_video: ""
 slides: example
 ---
 
-text here
