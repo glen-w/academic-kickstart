@@ -25,7 +25,15 @@ date_format = "Jan 2006"
   location = "Paris"
   date_start = "2014-04-01"
   date_end = ""
-  description = ""
+  description = "At this leading sustainable development think tank, I am responsible for our activities on marine areas beyond national jurisdiction (ABNJ). I have played a central role in the conception, establishment and development of the Partnership for Regional Ocean Governance (PROG), the Strengthening Regional Ocean Governance for the High Seas project (STRONG High Seas) and the Marine Regions Forum."
+
+Achievements include:
+  
+  * Publishing two editions of The Long and Winding Road, which is highly respected and widely recognised as the leading guide to the UN high seas negotiations.
+  * Regular invitations to speak at high-level events and workshops. Invitation to write a comment piece for Nature.
+  * Developing a highly visible and commanding presence at UN negotiations and other international forums through timely publication of policy briefs, organisation of workshops, participation in side events and active use of social media.
+  * Teaching a range of classes at Sciences Po university.
+
 
 [[experience]]
   title = "Researcher"
