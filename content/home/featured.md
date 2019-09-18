@@ -62,3 +62,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+[filtering publications]({{< ref "/publication/_index.md" >}})
