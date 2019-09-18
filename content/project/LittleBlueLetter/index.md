@@ -6,6 +6,7 @@ summary: Little Blue Letter is a splash of uplifting ocean stuff, lovingly curat
 tags:
 - Outreach
 - SciComm
+- Personal
 date: "2017-10-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
