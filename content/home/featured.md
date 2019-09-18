@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Featured Publications"
-subtitle = [See all]({{< ref "/publication/_index.md" >}})
+subtitle = "[See all]({{< ref "/publication/_index.md" >}})"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
