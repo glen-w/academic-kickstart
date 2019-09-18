@@ -1,9 +1,10 @@
 ---
 title: Academia Obscura
-summary: The hidden silly side of higher education.
+summary: Acadmia Obscura is the hidden silly side of higher education.
 tags:
 - Outreach
 - SciComm
+- Personal
 date: "2017-10-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
