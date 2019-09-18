@@ -62,5 +62,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-[See all]({< ref "/publication/_index.md" >})
+[See all](/publication/)
 
