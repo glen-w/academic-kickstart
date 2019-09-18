@@ -32,4 +32,4 @@ url_video: ""
 slides: example
 ---
 
-text here
+Academia Obscura began as a light-hearted reflection on university life during my doctorate and became a popular blog, twitter account and book. *Academia Obscura: The Hidden Silly Side of Higher Education* was published in 2017 by Penguin Random House.
