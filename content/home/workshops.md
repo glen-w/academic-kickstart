@@ -4,7 +4,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 95  # Order that this section will appear.
 
-title = "Featured workshops"
+title = "Workshops"
 subtitle = ""
 
 [content]
@@ -12,7 +12,7 @@ subtitle = ""
   page_type = "workshop"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
