@@ -1,13 +1,14 @@
 +++
-# A Recent and Upcoming Talks section created with the Pages widget.
-# This section displays recent talks from `content/talk/`.
+# A Featured Publications section created with the Featured Content widget.
+# This section displays publications from `content/publication/` which have
+# `featured = true` in their front matter.
 
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 95  # Order that this section will appear.
 
-title = "Talks"
+title = "Talk"
 subtitle = ""
 
 [content]
@@ -25,7 +26,7 @@ subtitle = ""
   #  tag = ""
   #  category = ""
   #  publication_type = 1
-    
+  
 [design]
   # Toggle between the various page layout types.
   #   1 = List
@@ -39,7 +40,7 @@ subtitle = ""
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-
+  
   # Background color.
   # color = "navy"
   
@@ -61,5 +62,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-Showing featured talks. [See all](/talk/)
-
+Showing featured publications. [See all](/talk/)
