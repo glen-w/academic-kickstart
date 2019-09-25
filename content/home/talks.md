@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 95  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Featured talks"
 subtitle = ""
 
 [content]
@@ -67,4 +67,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-Coming soonish...
+[See all](/talk/)
+
