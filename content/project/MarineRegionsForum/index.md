@@ -1,6 +1,7 @@
 ---
-title: Partnership for Regional Ocean Governance
-summary: 
+title: Marine Regions Forum
+summary: The Marine Regions Forum provides a unique space for decision-makers, scientists and civil-society actors from the world’s different marine regions to discuss and showcase impactful collaborative solutions for ocean health.
+
 tags:
 - Regional Ocean Governance
 - Professional
