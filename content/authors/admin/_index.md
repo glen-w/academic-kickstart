@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Research Fellow in Marine Governance
+role: Senior Researcher, International Marine Governance
 
 # Organizations/Affiliations
 organizations:
@@ -29,12 +29,12 @@ education:
   courses:
   - course: PhD in Marine Governance
     institution: Australian National University
-    year: 2019 (submitted)
+    year: 2020 (submitted)
   - course: LL.M Law
     institution: University of New South Wales
     year: 2013
   - course: LL.B in Law with American Law
-    institution: University of Nottingham and University of Texas at Austin
+    institution: University of Nottingham & University of Texas at Austin
     year: 2012
 
 # Social/Academic Networking
@@ -59,17 +59,9 @@ social:
   icon_pack: ai
   link: https://orcid.org/0000-0002-9162-9618
   
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Glen_Wright
-  
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/805355/glen-wright/
-  
-- icon: mendeley
-  icon_pack: ai
-  link: https://www.mendeley.com/profiles/glen-wright/
  
 - icon: linkedin
   icon_pack: fab
@@ -89,6 +81,6 @@ user_groups:
 - Visitors
 ---
 
-I am currently a Senior Research Fellow at the Institute for Sustainable Development and International Relations (IDDRI), based in Paris. I work on various aspects of marine policy and ocean governance, specialising in the high seas/areas beyond national jurisdiction, regional ocean policy, marine spatial planning, and the regulation of wave and tidal energy technologies.
+I am currently a Senior Researcher at the Institute for Sustainable Development and International Relations (IDDRI), based in Paris. I work on various aspects of marine policy and ocean governance, specialising in international negotiations, the high seas/areas beyond national jurisdiction, regional cooperation, marine spatial planning, and the regulation of wave and tidal energy technologies.
 
 I run Little Blue Letter, an uplifting ocean newsletter curated each week by a young leader in marine science and policy, and Academia Obscura, a popular twitter account musing on the lighter side of academic life (now a book!).
