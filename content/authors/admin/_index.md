@@ -27,9 +27,6 @@ interests:
 
 education:
   courses:
-  - course: PhD in Marine Governance
-    institution: Australian National University
-    year: 2020 (submitted)
   - course: LL.M Law
     institution: University of New South Wales
     year: 2013
